@@ -12,6 +12,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [Stripe-API](https://stripe.com/br)
+- [Fauna DB](https://fauna.com/)
 
 <br>
 
