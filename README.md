@@ -11,6 +11,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [NextJs](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
+- [Stripe-API](https://stripe.com/br)
 
 <br>
 
