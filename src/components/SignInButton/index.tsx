@@ -7,7 +7,7 @@ import { FiX } from 'react-icons/fi';
 export function SignInButton() {
   const { data: session, status } = useSession()
 
-  console.log('session', session);
+  console.log('session_name', session);
   const isUserLoggedIn = true;
   
   return status === "authenticated" ? (
